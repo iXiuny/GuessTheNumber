@@ -1,5 +1,5 @@
 # GuessTheNumber
-Another game done for school
+Another game done at school, currently getting reworked
 # Q: How do you play GuessTheNumber?
 That's pretty simple, you just choose a number and if it's right you won!
 # Q: Are there going to be updates to this game?
